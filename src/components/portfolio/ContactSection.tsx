@@ -90,7 +90,7 @@ export function ContactSection() {
           </div>
 
           {/* Contact Form */}
-          <Card className="card-shadow animate-slide-up" style={{ animationDelay: "0.2s" }}>
+          {/* <Card className="card-shadow animate-slide-up" style={{ animationDelay: "0.2s" }}>
             <CardHeader>
               <CardTitle className="flex items-center gap-3">
                 <MessageCircle className="w-5 h-5 text-primary" />
@@ -133,7 +133,7 @@ export function ContactSection() {
                 </Button>
               </form>
             </CardContent>
-          </Card>
+          </Card> */}
         </div>
       </div>
     </section>

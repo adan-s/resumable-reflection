@@ -31,7 +31,7 @@ export function HeroSection() {
           </p>
         </div>
 
-        <div className="flex flex-wrap gap-4 justify-center mb-8">
+        {/* <div className="flex flex-wrap gap-4 justify-center mb-8">
           <Button size="lg" className="hero-gradient text-primary-foreground">
             <Mail className="w-5 h-5 mr-2" />
             Get In Touch
@@ -41,7 +41,7 @@ export function HeroSection() {
             <Github className="w-5 h-5 mr-2" />
             View Projects
           </Button>
-        </div>
+        </div> */}
 
         <div className="flex flex-wrap gap-6 justify-center text-sm">
           <a href="mailto:adansalman0987@gmail.com" className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors">

@@ -67,14 +67,14 @@ export function ProjectsSection() {
                     </CardTitle>
                   </div>
                   
-                  <div className="flex gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
+                  {/* <div className="flex gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
                     <Button size="sm" variant="ghost" className="h-8 w-8 p-0">
                       <Github className="w-4 h-4" />
                     </Button>
                     <Button size="sm" variant="ghost" className="h-8 w-8 p-0">
                       <ExternalLink className="w-4 h-4" />
                     </Button>
-                  </div>
+                  </div> */}
                 </div>
               </CardHeader>
               
