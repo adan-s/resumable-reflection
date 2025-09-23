@@ -15,7 +15,7 @@ const skillCategories = [
   {
     title: "Frontend Development",
     icon: Globe,
-    skills: ["Next.js", "React.js", "TypeScript", "Tailwind CSS", "HTML5", "CSS3", "Responsive Design"],
+    skills: ["Next.js", "React.js", "TypeScript", "Tailwind CSS", "HTML5", "Responsive Design"],
     color: "text-blue-500"
   },
   {
@@ -33,19 +33,19 @@ const skillCategories = [
   {
     title: "Database & Cloud",
     icon: Database,
-    skills: ["MongoDB", "NoSQL", "Vector DB", "Database Design", "Performance Optimization", "Scalability"],
+    skills: ["MongoDB", "NoSQL", "Vector DB", "Database Design", "Performance Optimization"],
     color: "text-purple-500"
   },
   {
     title: "Development Tools",
     icon: Code2,
-    skills: ["Git", "VS Code", "Docker", "npm/yarn", "Webpack", "Vite", "Testing"],
+    skills: ["Git", "VS Code", "Docker", "npm/yarn", "Testing"],
     color: "text-orange-500"
   },
   {
     title: "Soft Skills",
     icon: Award,
-    skills: ["Leadership", "Teaching", "Team Collaboration", "Problem Solving", "Project Management", "Mentoring"],
+    skills: ["Leadership", "Team Collaboration", "Problem Solving", "Project Management", "Mentoring"],
     color: "text-teal-500"
   }
 ];
